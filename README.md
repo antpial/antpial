@@ -9,11 +9,12 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | [cite_start]![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?logo=mathworks&logoColor=white) ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-34495E?style=flat)|
-| **Robotics** | **ROS2**, Gazebo, MSC Adams, FANUC, Universal Robots |
-| **Embedded** | **STM32**, Raspberry Pi, Arduino |
+| **Programming** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?logo=mathworks&logoColor=white) ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-34495E?style=flat)|
+| **Robotics** | ROS2, Gazebo, MSC Adams, FANUC, Universal Robots |
+| **Embedded** | STM32, Raspberry Pi, Arduino |
 | **Operating Systems** | Linux (Ubuntu), Windows |
-| **Design/Fab** | Vacuum Infusion, Carbon & Glass Fiber, Mechanical CAD |
+| **Design/Fab** | Vacuum Infusion, Carbon & Glass Fiber |
+| **Languages** | English (B2.2), Spanish (B2) |
 
 ---
 
