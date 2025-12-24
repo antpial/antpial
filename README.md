@@ -1,63 +1,51 @@
-# Antoni Piałucha 👋
+# Hi there! I'm Antoni Piałucha 👋
 
-### 🤖 Robotics & Automation Engineering Student | Autonomous Systems Enthusiast
-
-I am a fourth-year Robotics and Automation Engineering student at Wroclaw University of Science and Technology, specializing in **autonomy and mobile robotics**. My professional focus lies at the intersection of **embedded systems and maritime technologies**, where I apply engineering principles to complex aquatic environments. 
-
-With a proven track record in **team leadership and managing multidisciplinary projects**, I excel in bridge-building between mechanical design and software implementation. I am a proactive problem-solver, highly adaptable, and **open to international collaboration and travel-intensive roles** that push the boundaries of modern robotics.
+### 🤖 Robotics & Automation Engineering Student | Autonomous Systems Specialist
+I am a 4th-year student at Wroclaw University of Science and Technology, specializing in **autonomy and mobile robotics**. My work focuses on the intersection of **embedded systems and maritime technologies**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### 💻 Programming & Software
-* **Languages:** C, C++, Python, Java, Matlab, Bash.
-* **Industrial & Specialized:** Ladder (PLC), Qt framework.
-* **Operating Systems:** Advanced proficiency in Linux (Ubuntu) and Windows environments.
-
-### 🦾 Robotics & Simulation
-* **Frameworks:** ROS2, Gazebo.
-* **Dynamics & Analysis:** MSC Adams.
-* **Industrial Manipulators:** FANUC LR Mate 200iD, Universal Robots UR3.
-
-### 🔌 Embedded Systems & Hardware
-* **Platforms:** STM32, Raspberry Pi, Arduino.
-* **Tools:** Git, LaTeX, Microsoft Office, Notion.
-
-### 📜 Certifications & Licenses
-* **Technical:** SEP E1 Electrical Qualifications (up to 1kV).
-* **Communications:** SRC (Maritime Radio Operator).
-* **General:** Driver’s license cat. B, Camp Counselor Certificate.
-
-### 🌍 Languages
-* **Polish:** Native.
-* **English:** Upper Intermediate (B2.2).
-* **Spanish:** Intermediate (B2).
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?logo=mathworks&logoColor=white) |
+| **Robotics** | **ROS2**, Gazebo, MSC Adams, FANUC, Universal Robots |
+| **Embedded** | **STM32**, Raspberry Pi, Arduino |
+| **Operating Systems** | Linux (Ubuntu), Windows |
+| **Design/Fab** | Vacuum Infusion, Carbon & Glass Fiber, Mechanical CAD |
 
 ---
 
-## 📊 Key Projects & Experience
+## 🚀 Featured Projects
 
-### 🛰️ Aerospace Intern | Tarnowski.io
-*2024 (160 hours)*
-* Contributed to the **Altitude Determination and Control System (ADCS)** for CubeSat satellites.
-* Developed a **Star Tracker system** using Python on Raspberry Pi, focusing on high-precision orientation determination and algorithm testing in a professional aerospace environment.
+### 🌊 Project FOKA (Autonomous Research Vessel)
+* **Role:** Founder & Project Leader.
+* **Achievement:** Secured **49,000 PLN** in funding from EU & Ministry programs.
+* **Tech:** Developed a ROS2/Python-based autonomous navigation system on Raspberry Pi with LoRa telemetry.
 
-### 🔫 Project Member | XAVA
-*03.2025 – 07.2025*
-* Developed a **remote-controlled vehicle-mounted turret** system.
-* Responsible for the **mechanical design** and **embedded systems development** utilizing STM32 microcontrollers.
-* Integrated hardware with low-level software to ensure precise movement and reliable remote operation under various conditions.
 
-### 🛥️ Leader | PWr Solar Boat Team
-*2022 – Present*
-* Progressed to board member, overseeing the development of **remote-controlled research boats** for flood infrastructure studies.
-* Gained specialized expertise in **carbon and glass fiber laminating** and **vacuum infusion** processes.
-* Contributed to **Project Passat** (transatlantic vessel) and managed finances, personnel, and international logistics.
+
+### 🛰️ CubeSat Star Tracker | Tarnowski.io
+* **Role:** Aerospace Intern.
+* **Task:** Developed a **Star Tracker system** for CubeSat ADCS using Python and Raspberry Pi.
+* **Focus:** Orientation determination and high-precision algorithm testing.
+
+### 🔫 XAVA Vehicle-Mounted Turret
+* **Role:** Mechanical Design & Embedded Systems (STM32).
+* **Focus:** Low-level software integration for precise movement and remote operation.
 
 ---
 
-## 📫 Contact & Links
-* **LinkedIn:** [linkedin.com/in/antoni-pialucha](https://linkedin.com/in/antoni-pialucha)
-* **GitHub:** [github.com/antpial](https://github.com/antpial)
-* **Email:** [antoni.pialucha@gmail.com](mailto:antoni.pialucha@gmail.com)
+## ⛵ Beyond Engineering
+* **Sailing:** Licensed Yacht & Motorboat Skipper (JSM, MSM, SRC).
+* **Leadership:** Board member of **PWr Solar Boat Team**, managing multidisciplinary teams and international logistics.
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoni-pialucha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoni.pialucha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antpial)
+
+*"Turning complex maritime and aerospace challenges into autonomous reality."*
