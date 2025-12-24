@@ -45,7 +45,7 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoni-piałucha-129391334)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoni.pialucha@gmail.com)
+* ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **LinkedIn:** [linkedin.com/in/antoni-pialucha-129391334](https://www.linkedin.com/in/antoni-pialucha-129391334)
+* ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email:** [antoni.pialucha@gmail.com](mailto:antoni.pialucha@gmail.com)
 
 *"Turning complex maritime and aerospace challenges into autonomous reality."*
