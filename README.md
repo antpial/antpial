@@ -32,7 +32,7 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 * **Task:** Developed a **Star Tracker system** for CubeSat ADCS using Python and Raspberry Pi.
 * **Focus:** Orientation determination and high-precision algorithm testing.
 
-### 🔫 XAVA Vehicle-Mounted Turret
+### 🔫 Vehicle-Mounted Turret | XAVA
 * **Role:** Mechanical Design & Embedded Systems (STM32).
 * **Focus:** Low-level software integration for precise movement and remote operation.
 
