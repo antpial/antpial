@@ -9,7 +9,7 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?logo=mathworks&logoColor=white) |
+| **Languages** | [cite_start]![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?logo=mathworks&logoColor=white) ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-34495E?style=flat)|
 | **Robotics** | **ROS2**, Gazebo, MSC Adams, FANUC, Universal Robots |
 | **Embedded** | **STM32**, Raspberry Pi, Arduino |
 | **Operating Systems** | Linux (Ubuntu), Windows |
@@ -46,6 +46,5 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoni-pialucha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoni.pialucha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antpial)
 
 *"Turning complex maritime and aerospace challenges into autonomous reality."*
