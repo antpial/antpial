@@ -14,6 +14,7 @@ I am a 4th-year student at Wroclaw University of Science and Technology, special
 | **Embedded** | STM32, Raspberry Pi, Arduino |
 | **Operating Systems** | Linux (Ubuntu), Windows |
 | **Design/Fab** | Vacuum Infusion, Carbon & Glass Fiber |
+| **Cerificates** | Electrical Qual. (SEP E1 <1kV), SRC Radio Operator, Driving License (Cat. B) |
 | **Languages** | English (B2.2), Spanish (B2) |
 
 ---
